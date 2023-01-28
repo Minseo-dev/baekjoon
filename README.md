@@ -7,3 +7,4 @@
 #### 구현 및 시뮬레이션 문제
 **[ 브론즈/실버 ]**
 * [10798번 : 세로읽기](https://www.acmicpc.net/problem/10798)
+* [2490번 : 윷놀이](https://www.acmicpc.net/problem/2490)
