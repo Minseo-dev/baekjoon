@@ -10,3 +10,4 @@
 * [2490번 : 윷놀이](https://www.acmicpc.net/problem/2490)
 * [2484번 : 알람시계](https://www.acmicpc.net/problem/2884)
 * [3048번 : 개미](https://www.acmicpc.net/problem/3048)
+* [2980번 : 도로와 신호등](https://www.acmicpc.net/problem/2980)
